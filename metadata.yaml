@@ -1,0 +1,28 @@
+_repo: Unawares_43156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peard, Frances Mary
+    alias: Peard, Frances M. (Frances Mary)
+    birthdate: 1835
+    deathdate: 1923
+    gutenberg_agent_id: '42041'
+    url: http://www.gutenberg.org/2009/agents/42041
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Mary_Peard
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'France -- Fiction'
+title: 'Unawares: A Story of an Old French Town'
+url: http://www.gutenberg.org/ebooks/43156
