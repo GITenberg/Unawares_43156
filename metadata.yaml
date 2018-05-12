@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42041
     wikipedia: https://en.wikipedia.org/wiki/Frances_Mary_Peard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43156#Unawares
 gutenberg_issued: '2013-07-08'
 gutenberg_type: Text
 identifiers:
